@@ -205,13 +205,13 @@ function AboutSection() {
   const partners = [
     {
       name: 'Rajath Shetty',
-      role: 'Co-Founder & Tech Lead',
+      role: 'Co-Founder & Creative Director',
       description: 'Expert in full-stack development and digital transformation strategies.',
       image: 'R'
     },
     {
       name: 'Sanjay N',
-      role: 'Co-Founder & Creative Director',
+      role: 'Co-Founder & Tech Lead',
       description: 'Specialist in UI/UX design and creative digital solutions.',
       image: 'S'
     }
@@ -605,7 +605,7 @@ function ContactSection() {
                   </div>
                   <div>
                     <h4 className="font-semibold">Email Us</h4>
-                    <p className="text-sm text-muted-foreground">info@solveitbytech.com</p>
+                    <p className="text-sm text-muted-foreground">info.solveitbytech@gmail.com</p>
                   </div>
                 </CardContent>
               </Card>
@@ -697,8 +697,8 @@ function Footer() {
           <div>
             <h4 className="font-semibold mb-4">Get In Touch</h4>
             <ul className="space-y-2 text-sm text-muted-foreground">
-              <li>info@solveitbytech.com</li>
-              <li>+91 9876543210</li>
+              <li>info.solveitbytech@gmail.com</li>
+              <li>+91 8073665236</li>
               <li>India</li>
             </ul>
           </div>
