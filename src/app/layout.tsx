@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   keywords: ["web development", "mobile apps", "iOS development", "video editing", "SEO", "drone photogrammetry", "digital solutions", "SolveitByTech"],
   authors: [{ name: "SolveitByTech Team" }],
   icons: {
-    icon: "/logo.svg",
+    icon: "/logo.png",
   },
   openGraph: {
     title: "SolveitByTech | Transforming Ideas into Digital Solutions",
